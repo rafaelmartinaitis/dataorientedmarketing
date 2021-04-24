@@ -14,7 +14,7 @@
             "third tag" 
             ],
         "description": "Exemplo de Post",
-        "markdown_location": teste,
+        "markdown_location": "teste",
         "timetoread": 15
     },
     "recommendedpath":{
