@@ -1,4 +1,4 @@
-'Status':'Active'
+{'Status':'Active'
 'Slug':'test'
 'Title':'Document Title'
 'Summary':'A brief description of my document, will be shown in SEO results.'
@@ -11,7 +11,7 @@
 'base_url':'http://example.com'
 'nextslug':'teste2'
 'previousslug':'inicio'
-
+}
 
 This is the first paragraph of the document.
 
