@@ -1,3 +1,4 @@
+---
 Status:       Active
 Slug:         test
 Title:        Document's Title
@@ -11,6 +12,7 @@ timetoread:   15
 base_url:     http://example.com
 nextslug:     teste2
 previousslug: inicio
+---
 
 This is the first paragraph of the document.
 
