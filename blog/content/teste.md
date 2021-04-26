@@ -27,10 +27,11 @@ lorem ipsum
 ###tituloh4 tabela
 
 tabela
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+
+|First Header  | Second Header|
+| --- | --- |
+|Content Cell  | Content Cell|
+|Content Cell  | Content Cell|
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
